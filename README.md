@@ -1,2 +1,5 @@
 # hello-world
-first GitHub intro
+
+Hi,
+
+I am experimenting and refining my programming skills. 
